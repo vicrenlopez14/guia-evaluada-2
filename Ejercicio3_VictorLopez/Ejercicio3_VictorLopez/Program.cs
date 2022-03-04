@@ -14,10 +14,18 @@ namespace Ejercicio3_VictorLopez
             Console.WriteLine("Favor ingresar el radio menor: ");
             radioME = double.Parse(Console.ReadLine());
 
-            Console.Write("El area de la corona circular es: " +
-                3.1416 * (radioMA - radioME),
 
-            Console.ReadKey()); 
+            if (radioMA < radioME)
+            {
+                Console.WriteLine("El radio mayor debe ser más grande que el radio menor");
+                return;
+            }
+
+            double resultado = Math.PI * (Math.Pow(radioMA, 2) - Math.Pow(radioME, 2));
+
+            Console.WriteLine("El area de la corona circular es: " + Math.Round(resultado, 2));
+
+            Console.ReadKey(); 
         }
     }
 }

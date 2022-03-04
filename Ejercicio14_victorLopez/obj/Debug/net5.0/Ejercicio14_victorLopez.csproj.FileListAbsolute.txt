@@ -1,0 +1,16 @@
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\bin\Debug\net5.0\Ejercicio14_victorLopez.exe
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\bin\Debug\net5.0\Ejercicio14_victorLopez.deps.json
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\bin\Debug\net5.0\Ejercicio14_victorLopez.runtimeconfig.json
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\bin\Debug\net5.0\Ejercicio14_victorLopez.runtimeconfig.dev.json
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\bin\Debug\net5.0\Ejercicio14_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\bin\Debug\net5.0\ref\Ejercicio14_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\bin\Debug\net5.0\Ejercicio14_victorLopez.pdb
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\ref\Ejercicio14_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.pdb
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio14_victorLopez\obj\Debug\net5.0\Ejercicio14_victorLopez.genruntimeconfig.cache
