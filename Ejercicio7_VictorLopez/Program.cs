@@ -13,6 +13,7 @@
             */
 
             Double totalSalary = 0;
+            Double totalDiscount = 0;
             Double netSalary = 0;
 
             Console.WriteLine("Calculador de sueldo bruto");
@@ -34,10 +35,11 @@
             }
 
             // Calc
-            netSalary = Math.Round(totalSalary - ((totalSalary * 0.09) + (totalSalary * 0.06) + (totalSalary * 0.035)),
-                2);
+            totalDiscount = ((totalSalary * 0.09) + (totalSalary * 0.06) + (totalSalary * 0.035));
+            netSalary = Math.Round((totalSalary - totalDiscount), 2);
 
             // Out
+            Console.WriteLine($"Descuento total: {totalDiscount}");
             Console.WriteLine($"El salario neto es: ${netSalary}");
         }
     }

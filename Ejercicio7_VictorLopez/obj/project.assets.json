@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vicre\\RiderProjects\\Ejercicio7_VictorLopez\\Ejercicio7_VictorLopez.csproj",
+      "projectUniqueName": "C:\\Users\\vicre\\Documents\\Ricaldone\\Software\\RicardoModules\\Period1\\DotNet\\Guia2\\Ejercicio7_VictorLopez\\Ejercicio7_VictorLopez.csproj",
       "projectName": "Ejercicio7_VictorLopez",
-      "projectPath": "C:\\Users\\vicre\\RiderProjects\\Ejercicio7_VictorLopez\\Ejercicio7_VictorLopez.csproj",
+      "projectPath": "C:\\Users\\vicre\\Documents\\Ricaldone\\Software\\RicardoModules\\Period1\\DotNet\\Guia2\\Ejercicio7_VictorLopez\\Ejercicio7_VictorLopez.csproj",
       "packagesPath": "C:\\Users\\vicre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vicre\\RiderProjects\\Ejercicio7_VictorLopez\\obj\\",
+      "outputPath": "C:\\Users\\vicre\\Documents\\Ricaldone\\Software\\RicardoModules\\Period1\\DotNet\\Guia2\\Ejercicio7_VictorLopez\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
