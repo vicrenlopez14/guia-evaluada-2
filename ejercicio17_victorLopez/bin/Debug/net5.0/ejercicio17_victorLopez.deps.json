@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejercicio17_victorLopez/1.0.0": {
+        "runtime": {
+          "ejercicio17_victorLopez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicio17_victorLopez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\Ejercicio19_VictorLopez\Ejercicio19_VictorLopez\bin\Debug\Ejercicio19_VictorLopez.exe.config
+C:\Users\Administrador\Desktop\Ejercicio19_VictorLopez\Ejercicio19_VictorLopez\bin\Debug\Ejercicio19_VictorLopez.exe
+C:\Users\Administrador\Desktop\Ejercicio19_VictorLopez\Ejercicio19_VictorLopez\bin\Debug\Ejercicio19_VictorLopez.pdb
+C:\Users\Administrador\Desktop\Ejercicio19_VictorLopez\Ejercicio19_VictorLopez\obj\Debug\Ejercicio19_VictorLopez.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Ejercicio19_VictorLopez\Ejercicio19_VictorLopez\obj\Debug\Ejercicio19_VictorLopez.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Ejercicio19_VictorLopez\Ejercicio19_VictorLopez\obj\Debug\Ejercicio19_VictorLopez.exe
+C:\Users\Administrador\Desktop\Ejercicio19_VictorLopez\Ejercicio19_VictorLopez\obj\Debug\Ejercicio19_VictorLopez.pdb

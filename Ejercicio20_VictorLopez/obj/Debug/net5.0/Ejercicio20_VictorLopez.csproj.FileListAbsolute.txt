@@ -1,0 +1,16 @@
+D:\Ejercicio20_VictorLopez\bin\Debug\net5.0\Ejercicio20_VictorLopez.exe
+D:\Ejercicio20_VictorLopez\bin\Debug\net5.0\Ejercicio20_VictorLopez.deps.json
+D:\Ejercicio20_VictorLopez\bin\Debug\net5.0\Ejercicio20_VictorLopez.runtimeconfig.json
+D:\Ejercicio20_VictorLopez\bin\Debug\net5.0\Ejercicio20_VictorLopez.runtimeconfig.dev.json
+D:\Ejercicio20_VictorLopez\bin\Debug\net5.0\Ejercicio20_VictorLopez.dll
+D:\Ejercicio20_VictorLopez\bin\Debug\net5.0\ref\Ejercicio20_VictorLopez.dll
+D:\Ejercicio20_VictorLopez\bin\Debug\net5.0\Ejercicio20_VictorLopez.pdb
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.csprojAssemblyReference.cache
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.AssemblyInfoInputs.cache
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.AssemblyInfo.cs
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.csproj.CoreCompileInputs.cache
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.dll
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\ref\Ejercicio20_VictorLopez.dll
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.pdb
+D:\Ejercicio20_VictorLopez\obj\Debug\net5.0\Ejercicio20_VictorLopez.genruntimeconfig.cache

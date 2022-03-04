@@ -1,0 +1,16 @@
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\bin\Debug\net5.0\ejercicio17_victorLopez.exe
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\bin\Debug\net5.0\ejercicio17_victorLopez.deps.json
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\bin\Debug\net5.0\ejercicio17_victorLopez.runtimeconfig.json
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\bin\Debug\net5.0\ejercicio17_victorLopez.runtimeconfig.dev.json
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\bin\Debug\net5.0\ejercicio17_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\bin\Debug\net5.0\ref\ejercicio17_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\bin\Debug\net5.0\ejercicio17_victorLopez.pdb
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ref\ejercicio17_victorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.pdb
+C:\Users\Alumno\Desktop\ejercicios modulo\ejercicio17_victorLopez\obj\Debug\net5.0\ejercicio17_victorLopez.genruntimeconfig.cache

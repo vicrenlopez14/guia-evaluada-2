@@ -1,0 +1,15 @@
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\bin\Debug\net6.0\Ejercicio10_VictorLopez.exe
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\bin\Debug\net6.0\Ejercicio10_VictorLopez.deps.json
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\bin\Debug\net6.0\Ejercicio10_VictorLopez.runtimeconfig.json
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\bin\Debug\net6.0\Ejercicio10_VictorLopez.dll
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\bin\Debug\net6.0\ref\Ejercicio10_VictorLopez.dll
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\bin\Debug\net6.0\Ejercicio10_VictorLopez.pdb
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.csproj.AssemblyReference.cache
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.AssemblyInfoInputs.cache
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.AssemblyInfo.cs
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.csproj.CoreCompileInputs.cache
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.dll
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\ref\Ejercicio10_VictorLopez.dll
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.pdb
+C:\Users\vicre\RiderProjects\Ejercicio10_VictorLopez\obj\Debug\net6.0\Ejercicio10_VictorLopez.genruntimeconfig.cache

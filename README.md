@@ -1,1 +1,9 @@
-# guia-evaluada-2
+#Guía evaluada 2
+
+Instituto Técnico Ricaldone 
+
+Bachillerato
+
+##Integrantes
+
+

@@ -1,0 +1,7 @@
+C:\Users\Rebeca\Desktop\Ejercicio11_VictorLopez\Ejercicio11_VictorLopez\bin\Debug\Ejercicio11_VictorLopez.exe.config
+C:\Users\Rebeca\Desktop\Ejercicio11_VictorLopez\Ejercicio11_VictorLopez\bin\Debug\Ejercicio11_VictorLopez.exe
+C:\Users\Rebeca\Desktop\Ejercicio11_VictorLopez\Ejercicio11_VictorLopez\bin\Debug\Ejercicio11_VictorLopez.pdb
+C:\Users\Rebeca\Desktop\Ejercicio11_VictorLopez\Ejercicio11_VictorLopez\obj\Debug\Ejercicio11_VictorLopez.csprojAssemblyReference.cache
+C:\Users\Rebeca\Desktop\Ejercicio11_VictorLopez\Ejercicio11_VictorLopez\obj\Debug\Ejercicio11_VictorLopez.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca\Desktop\Ejercicio11_VictorLopez\Ejercicio11_VictorLopez\obj\Debug\Ejercicio11_VictorLopez.exe
+C:\Users\Rebeca\Desktop\Ejercicio11_VictorLopez\Ejercicio11_VictorLopez\obj\Debug\Ejercicio11_VictorLopez.pdb

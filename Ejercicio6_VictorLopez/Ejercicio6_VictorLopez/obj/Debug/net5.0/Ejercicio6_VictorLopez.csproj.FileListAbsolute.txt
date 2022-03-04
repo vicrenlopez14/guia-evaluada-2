@@ -1,0 +1,16 @@
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.csprojAssemblyReference.cache
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.GeneratedMSBuildEditorConfig.editorconfig
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.AssemblyInfoInputs.cache
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.AssemblyInfo.cs
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.csproj.CoreCompileInputs.cache
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\bin\Debug\net5.0\Ejercicio6_VictorLopez.exe
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\bin\Debug\net5.0\Ejercicio6_VictorLopez.deps.json
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\bin\Debug\net5.0\Ejercicio6_VictorLopez.runtimeconfig.json
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\bin\Debug\net5.0\Ejercicio6_VictorLopez.runtimeconfig.dev.json
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\bin\Debug\net5.0\Ejercicio6_VictorLopez.dll
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\bin\Debug\net5.0\ref\Ejercicio6_VictorLopez.dll
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\bin\Debug\net5.0\Ejercicio6_VictorLopez.pdb
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.dll
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\ref\Ejercicio6_VictorLopez.dll
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.pdb
+D:\20190142 Yacira Gutierrez\Ejercicio6_VictorLopez\Ejercicio6_VictorLopez\obj\Debug\net5.0\Ejercicio6_VictorLopez.genruntimeconfig.cache

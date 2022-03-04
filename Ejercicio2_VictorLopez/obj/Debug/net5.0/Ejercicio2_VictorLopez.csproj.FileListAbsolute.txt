@@ -1,0 +1,32 @@
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.exe
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.deps.json
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.runtimeconfig.json
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.runtimeconfig.dev.json
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\bin\Debug\net5.0\ref\Ejercicio2_VictorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.pdb
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\ref\Ejercicio2_VictorLopez.dll
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.pdb
+C:\Users\Alumno\Desktop\ejercicios modulo\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.genruntimeconfig.cache
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.exe
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.deps.json
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.runtimeconfig.json
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.runtimeconfig.dev.json
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.dll
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\bin\Debug\net5.0\ref\Ejercicio2_VictorLopez.dll
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\bin\Debug\net5.0\Ejercicio2_VictorLopez.pdb
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.csproj.AssemblyReference.cache
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.AssemblyInfoInputs.cache
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.AssemblyInfo.cs
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.csproj.CoreCompileInputs.cache
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.dll
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\ref\Ejercicio2_VictorLopez.dll
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.pdb
+C:\Users\vicre\Documents\Ricaldone\Software\RicardoModules\Period1\DotNet\Guia2\Ejercicio2_VictorLopez\obj\Debug\net5.0\Ejercicio2_VictorLopez.genruntimeconfig.cache

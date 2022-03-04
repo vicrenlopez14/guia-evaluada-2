@@ -1,0 +1,16 @@
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\bin\Debug\net5.0\Ejercicio16_VictorLopez.exe
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\bin\Debug\net5.0\Ejercicio16_VictorLopez.deps.json
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\bin\Debug\net5.0\Ejercicio16_VictorLopez.runtimeconfig.json
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\bin\Debug\net5.0\Ejercicio16_VictorLopez.runtimeconfig.dev.json
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\bin\Debug\net5.0\Ejercicio16_VictorLopez.dll
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\bin\Debug\net5.0\ref\Ejercicio16_VictorLopez.dll
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\bin\Debug\net5.0\Ejercicio16_VictorLopez.pdb
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.dll
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\ref\Ejercicio16_VictorLopez.dll
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.pdb
+C:\Users\Alumno\Desktop\Ejercicio16_VictorLopez\Ejercicio16_VictorLopez\obj\Debug\net5.0\Ejercicio16_VictorLopez.genruntimeconfig.cache

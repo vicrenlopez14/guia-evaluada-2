@@ -1,0 +1,15 @@
+D:\Ejercicio4_VictorLopez\bin\Debug\net5.0\Ejercicio4_VictorLopez.exe
+D:\Ejercicio4_VictorLopez\bin\Debug\net5.0\Ejercicio4_VictorLopez.deps.json
+D:\Ejercicio4_VictorLopez\bin\Debug\net5.0\Ejercicio4_VictorLopez.runtimeconfig.json
+D:\Ejercicio4_VictorLopez\bin\Debug\net5.0\Ejercicio4_VictorLopez.runtimeconfig.dev.json
+D:\Ejercicio4_VictorLopez\bin\Debug\net5.0\Ejercicio4_VictorLopez.dll
+D:\Ejercicio4_VictorLopez\bin\Debug\net5.0\ref\Ejercicio4_VictorLopez.dll
+D:\Ejercicio4_VictorLopez\bin\Debug\net5.0\Ejercicio4_VictorLopez.pdb
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\Ejercicio4_VictorLopez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\Ejercicio4_VictorLopez.AssemblyInfoInputs.cache
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\Ejercicio4_VictorLopez.AssemblyInfo.cs
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\Ejercicio4_VictorLopez.csproj.CoreCompileInputs.cache
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\Ejercicio4_VictorLopez.dll
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\ref\Ejercicio4_VictorLopez.dll
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\Ejercicio4_VictorLopez.pdb
+D:\Ejercicio4_VictorLopez\obj\Debug\net5.0\Ejercicio4_VictorLopez.genruntimeconfig.cache
