@@ -8,13 +8,9 @@ namespace Ejercicio4_VictorLopez
         {
             Console.Write("Ingrese un número: ");
             double n = double.Parse(Console.ReadLine());
+            
             Console.WriteLine("El cuadrado del número es de: " + Math.Pow(n, 2));
             Console.WriteLine("El cubo del número es de: " + Math.Pow(n, 3));
-            
-
-
-
-
         }
     }
 }
